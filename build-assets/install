@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Run drush site install with profile
-PROFILE_NAME="d8test"
-SITE_MAIL="d8test@drupaltest.org"
+PROFILE_NAME="d7test"
+SITE_MAIL="d7test@drupaltest.org"
 SITE_NAME="Drupal Test Profile"
 ACCOUNT_NAME="admin"
 ACCOUNT_PASSWORD="admin"
