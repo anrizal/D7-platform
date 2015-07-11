@@ -1,0 +1,31 @@
+# web folder
+/web
+/vhosts
+/log
+/tmp
+
+# dont except this
+!/vhosts/README.md
+!/vhosts/example.vhost.80
+!/log/README.md
+!/tmp/README.md
+
+build
+build-assets
+
+.*~
+*.*~
+
+# OS or Editor folders
+.DS_Store
+Thumbs.db
+.cache
+.project
+.settings
+.tmproj
+*.esproj
+nbproject
+.idea
+
+# base .htaccess
+.htaccess
