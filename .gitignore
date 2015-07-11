@@ -1,6 +1,12 @@
 # web folder
 /web
+/vhosts/
+/log/
+/tmp
 
+
+build
+build-assets
 
 .*~
 *.*~
